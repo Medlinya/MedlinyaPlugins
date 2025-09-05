@@ -5,7 +5,7 @@
     "InternalName": "AetheryteLinkInChat",
     "AssemblyVersion": "1.0.0.0",
     "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/repo.json",
+    "RepoUrl": "https://github.com/Medlinya/MedlinyaPlugins/",
     "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
     "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
     "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
@@ -26,6 +26,7 @@
     "IconUrl": "https://www.world-lolo.com/images/uploads/image.num1756568397.of.world-lolo.com.png"
   }
 ]
+
 
 
 
