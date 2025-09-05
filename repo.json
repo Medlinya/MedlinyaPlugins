@@ -6,9 +6,9 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
     "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
-    "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.7z",
-    "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.7z",
-    "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.7z",
+    "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/AetheryteLinkInChat.7z",
+    "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/AetheryteLinkInChat.7z",
+    "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/AetheryteLinkInChat.7z",
     "DalamudApiLevel": 13,
     "IsHide": false
   },
@@ -19,11 +19,10 @@
     "AssemblyVersion": "1.0.0.0",
     "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
     "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
-    "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.7z",
-    "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.7z",
-    "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.7z",
+    "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/FaloopIntegration.7z",
+    "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/FaloopIntegration.7z",
+    "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/FaloopIntegration.7z",
     "DalamudApiLevel": 13,
     "IsHide": false
   }
 ]
-
