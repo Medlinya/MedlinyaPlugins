@@ -5,7 +5,7 @@
     "InternalName": "AetheryteLinkInChat",
     "AssemblyVersion": "1.0.0.0",
     "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
-    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
+    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/repo.json",
     "DownloadLinkInstall": "https://Medlinya.github.io/MedlinyaPlugins/AetheryteLinkInChat.zip",
     "DownloadLinkTesting": "https://Medlinya.github.io/MedlinyaPlugins/AetheryteLinkInChat.zip",
     "DownloadLinkUpdate": "https://Medlinya.github.io/MedlinyaPlugins/AetheryteLinkInChat.zip",
@@ -18,7 +18,7 @@
     "InternalName": "FaloopIntegration",
     "AssemblyVersion": "1.0.0.0",
     "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
+    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/repo.json",
     "DownloadLinkInstall": "https://Medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
     "DownloadLinkTesting": "https://Medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
     "DownloadLinkUpdate": "https://Medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
@@ -26,5 +26,6 @@
     "IconUrl": "https://www.world-lolo.com/images/uploads/image.num1756568397.of.world-lolo.com.png"
   }
 ]
+
 
 
