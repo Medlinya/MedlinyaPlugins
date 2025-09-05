@@ -1,6 +1,6 @@
 [
   {
-    "Author": "Asteria Nocturna modified by Medlinya",
+    "Author": "SlashNephy modified by Medlinya",
     "Name": "AetheryteLinkInChat",
     "InternalName": "AetheryteLinkInChat",
     "AssemblyVersion": "1.0.0.0",
@@ -10,21 +10,19 @@
     "DownloadLinkTesting": "https://medlinya.github.io/MedlinyaPlugins/AetheryteLinkInChat.zip",
     "DownloadLinkUpdate": "https://medlinya.github.io/MedlinyaPlugins/AetheryteLinkInChat.zip",
     "DalamudApiLevel": 13,
-    "IsHide": false,
-    "IconUrl": "https://www.world-lolo.com/images/uploads/image.num1756568047.of.world-lolo.com.png"
+    "IsHide": false
   },
   {
-    "Author": "Asteria Nocturna modified by Medlinya",
+    "Author": "SlashNephy modified by Medlinya",
     "Name": "FaloopIntegration",
     "InternalName": "FaloopIntegration",
     "AssemblyVersion": "1.0.0.0",
     "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
-    "RepoUrl": "hhttps://medlinya.github.io/MedlinyaPlugins/",
+    "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
     "DownloadLinkInstall": "https://medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
     "DownloadLinkTesting": "https://medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
     "DownloadLinkUpdate": "https://medlinya.github.io/MedlinyaPlugins/FaloopIntegration.zip",
     "DalamudApiLevel": 13,
-    "IsHide": false,
-    "IconUrl": "https://www.world-lolo.com/images/uploads/image.num1756568397.of.world-lolo.com.png"
+    "IsHide": false
   }
 ]
