@@ -3,13 +3,13 @@
     "Author": "SlashNephy modified by Medlinya",
     "Name": "AetheryteLinkInChat",
     "InternalName": "AetheryteLinkInChat",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
     "RepoUrl": "https://medlinya.github.io/MedlinyaPlugins/",
     "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
     "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
     "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/AetheryteLinkInChat.zip",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IsHide": false
   },
   {
@@ -22,7 +22,7 @@
     "DownloadLinkInstall": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.zip",
     "DownloadLinkTesting": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.zip",
     "DownloadLinkUpdate": "https://github.com/Medlinya/MedlinyaPlugins/raw/refs/heads/main/FaloopIntegration.zip",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IsHide": false
   }
 ]
